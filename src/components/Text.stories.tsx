@@ -1,4 +1,4 @@
-import { Text, TextProps } from './text'
+import { Text, TextProps } from './Text'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {
